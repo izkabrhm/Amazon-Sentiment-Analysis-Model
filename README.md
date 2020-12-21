@@ -10,4 +10,4 @@ Since customers express their thoughts and feelings more openly than ever before
     <img alt="SentimentAnalysis" title="DataScience" src="https://www.kdnuggets.com/images/sentiment-fig-1-689.jpg" width="500" height="300">
 </p>
 
-In this project, I have implemented a Sentiment Analysis model on Amazon Alexa reviews. Using principal NLP concepts such as Naive Bayes Classifier, we can predict whether their customers are satisfied with the product or not.
+In this project, I have implemented a Sentiment Analysis model on Amazon Alexa reviews. Using principal NLP processes like tokenization, stemming, removing punctuations & stopwords, using CountVectorizer along with Naive Bayes Classifier or Logistic Regression, we can predict whether their customers are satisfied with the product or not.
